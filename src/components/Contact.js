@@ -9,6 +9,7 @@ const Contact = (props) => {
             <img 
                     className="avatar"
                     src= {props.avatar}
+                    alt= {props.alt}
             />
         
         <div>
